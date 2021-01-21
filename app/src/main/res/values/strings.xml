@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="nsa">Welcome</string>
+    <string name="nice_to_see_you">Nice to see you!</string>
+    <string name="login">login</string>
+    <string name="not_a_user">Not a user?</string>
+    <string name="register">Register</string>
+    <string name="need_help">Need help?</string>
+    <string name="enter_code">   enterCode</string>
+    <string name="back">←</string>
+    <string name="enteremail">enterEmail</string>
+    <string name="entername">enterName</string>
+    <string name="entercode">enterCode</string>
+    <string name="reentercode">reenterCode</string>
+    <string name="register2">Register</string>
+
+    <string name="hello">Hello!</string>
+    <string name="enter_mobilenumber">enter MobileNumber</string>
+    <string name="hii">Your Id`s</string>
+    <string name="addnewdata">AddNewData</string>
+    <string name="password">PassWord</string>
+    <string name="add">+</string>
+    <string name="email">email</string>
+    <string name="platformname">PlatFormName</string>
+
+    <string name="add1">ADD</string>
+    <string name="email2">Email:</string>
+    <string name="password2">PassWord:</string>
+    <string name="reset_code">Reset Code</string>
+    <string name="find_account">Find Account</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="update_data">Update Data</string>
+    <string name="backArrow">←</string>
+    <string name="_1">1</string>
+    <string name="welcome_back">Welcome_back</string>
+    <string name="todo">TODO</string>
+    <string name="threedot">⋮</string>
+
+</resources>

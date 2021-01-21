@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="Dark">#484444</color>
+    <color name="black">#000000</color>
+    <color name="nsa">#FF5722</color>
+    <color name="main">#359971</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#673446</color>
+    <color name="my">#BFE024</color>
+</resources>
